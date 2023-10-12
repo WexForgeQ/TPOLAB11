@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="maven-demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/maven_demo_jar</output-path>
+    <root id="archive" name="maven-demo.jar">
+      <element id="module-output" name="maven-demo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.8.2/junit-4.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
