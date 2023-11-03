@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: TPO_Lab06.JDBC.JDBCTest
+Test set: TPO_Lab06.InputOutput.MainTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.163 s - in TPO_Lab06.JDBC.JDBCTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.019 s - in TPO_Lab06.InputOutput.MainTest

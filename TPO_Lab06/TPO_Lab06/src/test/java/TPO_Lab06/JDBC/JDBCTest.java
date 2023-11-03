@@ -2,8 +2,8 @@ package TPO_Lab06.JDBC;
 
 import java.sql.Connection;
 import java.sql.SQLException;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
+import org.junit.Assert;
+import org.junit.Test;
 
 
 public class JDBCTest {
@@ -11,13 +11,13 @@ public class JDBCTest {
     public void testGetConnection() {
         try {
             Connection connection = DatabaseConnector.getConnection();
-            Assertions.assertNotNull(connection);
-            Assertions.assertFalse(connection.isClosed());
+            Assert.assertNotNull(connection);
+            Assert.assertFalse(connection.isClosed());
             connection.close();
-            Assertions.assertTrue(connection.isClosed());
+            Assert.assertTrue(connection.isClosed());
         } catch (SQLException | ClassNotFoundException e) {
             e.printStackTrace();
-            Assertions.fail("Failed to connect to the database.");
+            Assert.fail("Failed to connect to the database.");
         }
     }
 }
