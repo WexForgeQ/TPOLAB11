@@ -35,17 +35,7 @@
           <version>3.24.2</version>
           <scope>test</scope>
       </dependency>
-    <dependency>
-      <groupId>org.testng</groupId>
-      <artifactId>testng</artifactId>
-      <version>7.7.0</version>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.toxos.process-assertions</groupId>
-      <artifactId>process-assertions-parent</artifactId>
-      <version>0.7.1</version>
-    </dependency>
+
       <dependency>
           <groupId>backport-util-concurrent</groupId>
           <artifactId>backport-util-concurrent</artifactId>

@@ -3,7 +3,7 @@ package TPO_Lab06.Threads;
 import org.junit.Test;
 import java.util.concurrent.*;
 
-import static org.testng.AssertJUnit.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class PortTest {
 
