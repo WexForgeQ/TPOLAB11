@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tpolab10.test.FindInfoAboutHero
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.701 s - in tpolab10.test.FindInfoAboutHero
