@@ -1,3 +1,24 @@
 2023-12-01 16:11:30,019 INFO page.MainPage [main] Main page is opened
 2023-12-01 16:42:24,137 INFO page.MainPage [main] Main page is opened
 2023-12-01 16:42:38,934 INFO page.MainPage [main] Main page is opened
+2023-12-01 16:47:17,916 INFO page.MainPage [main] Main page is opened
+2023-12-01 16:58:16,421 INFO page.MainPage [main] Main page is opened
+2023-12-01 16:58:19,153 INFO page.MainPage [main] Main page is opened
+2023-12-01 16:58:19,563 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 17:07:45,671 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:07:48,945 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:07:49,376 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 17:07:52,558 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:07:52,997 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 17:07:53,471 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 17:07:53,498 INFO util.TestListener [main] Test failed: CheckInfoAboutHeroes
+2023-12-01 17:08:21,199 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:08:23,384 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:08:23,427 INFO util.TestListener [main] Test failed: isHeroesPageOpened
+2023-12-01 17:08:23,441 INFO util.TestListener [main] Test failed: isHeroesPageOpened
+2023-12-01 17:08:38,027 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:08:40,858 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:08:41,244 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 17:08:44,228 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:08:44,627 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 17:08:44,979 INFO page.HeroesPage [main] Abaddon page is opened

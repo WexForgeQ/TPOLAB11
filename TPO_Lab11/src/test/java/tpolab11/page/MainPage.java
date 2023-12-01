@@ -10,11 +10,8 @@ import org.openqa.selenium.support.PageFactory;
 public class MainPage extends BasePage {
     private final Logger log = LogManager.getLogger();
 
-//    @FindBy(xpath = "//*[@id=\"tds-site-header\"]/ol[1]/li[1]/a")
-//    private WebElement modelS;
-//
-//    @FindBy(xpath = "//*[@id=\"tds-site-header\"]/ol[2]/li[1]/a")
-//    private WebElement shop;
+    @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[3]/a")
+    private WebElement buttonHeroes;
 
     public MainPage(WebDriver driver) {
         super(driver);
@@ -27,17 +24,12 @@ public class MainPage extends BasePage {
         return this;
     }
 
-//    public ModelSPage openModelSPage() {
-//        modelS.click();
-//        log.info("Model S page is opened");
-//        return new ModelSPage(driver);
-//    }
+    public HeroesPage openHeroesPage() {
+        buttonHeroes.click();
+        log.info("Heroes page is opened");
+        return new HeroesPage(driver);
+    }
 
-//    public ShopPage openShopPage() {
-//        shop.click();
-//        log.info("Shop page is opened");
-//        return new ShopPage(driver);
-//    }
     public String getUrl() {
         return driver.getCurrentUrl();
     }
