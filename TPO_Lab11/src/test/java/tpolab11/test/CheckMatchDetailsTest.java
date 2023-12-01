@@ -4,7 +4,9 @@ import org.junit.Assert;
 import org.testng.annotations.Test;
 import tpolab11.page.MainPage;
 
-public class CheckMatchDetails extends CommonConditions {
+import static org.hamcrest.MatcherAssert.assertThat;
+
+public class CheckMatchDetailsTest extends CommonConditions {
     private static final String matchId = "7267932720";
     @Test
     public void isTestFound() {
@@ -13,5 +15,6 @@ public class CheckMatchDetails extends CommonConditions {
                 .searchMatch(matchId)
                 .checkMatchDetails(matchId);
         Assert.assertTrue(isMatchInfo);
+        assertThat("Test is found", isMatchInfo.equals(true));
     }
 }
