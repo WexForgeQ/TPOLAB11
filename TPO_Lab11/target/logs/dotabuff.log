@@ -22,3 +22,78 @@
 2023-12-01 17:08:44,228 INFO page.MainPage [main] Main page is opened
 2023-12-01 17:08:44,627 INFO page.MainPage [main] Heroes page is opened
 2023-12-01 17:08:44,979 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 17:56:36,974 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:56:40,499 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:56:41,118 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 17:56:43,902 INFO page.MainPage [main] Main page is opened
+2023-12-01 17:56:44,374 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 17:56:44,877 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:08:29,225 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:08:29,622 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:08:30,226 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:08:30,539 INFO page.AbaddonPage [main] Home page is opened
+2023-12-01 18:08:30,767 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:08:38,781 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:08:38,947 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:08:42,233 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:08:42,601 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:08:42,785 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:08:46,098 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:08:46,482 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:08:46,801 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:08:46,971 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:30:09,980 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:30:10,166 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:30:12,787 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:30:13,220 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:30:13,806 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:30:14,056 INFO page.AbaddonPage [main] Home page is opened
+2023-12-01 18:30:14,248 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:30:16,663 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:30:17,013 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:30:17,165 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:30:19,803 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:30:21,674 INFO page.MainPage [main] Match was found
+2023-12-01 18:30:21,878 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:30:24,333 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:30:24,699 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:30:25,035 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:30:25,224 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:40:05,029 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:40:07,059 INFO page.MainPage [main] Match was found
+2023-12-01 18:40:07,061 INFO page.MatchPage [main] Match details checked
+2023-12-01 18:40:07,382 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:40:10,145 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:40:10,731 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:40:11,328 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:40:11,663 INFO page.AbaddonPage [main] Home page is opened
+2023-12-01 18:40:11,855 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:40:14,842 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:40:15,008 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:40:18,506 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:40:18,859 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:40:19,021 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:40:22,653 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:40:23,040 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:40:23,677 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:40:23,859 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:40:26,563 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:40:26,805 INFO page.MainPage [main] Match was found
+2023-12-01 18:40:28,085 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:44:58,277 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:44:58,648 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:44:59,181 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:44:59,436 INFO page.AbaddonPage [main] Home page is opened
+2023-12-01 18:44:59,665 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:45:02,368 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:45:02,560 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:45:06,132 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:45:07,290 INFO page.MainPage [main] Match was found
+2023-12-01 18:45:07,472 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:45:10,306 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:45:10,689 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:45:10,865 INFO test.CommonConditions [main] Test completed
+2023-12-01 18:45:13,571 INFO page.MainPage [main] Main page is opened
+2023-12-01 18:45:13,930 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 18:45:14,259 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 18:45:14,459 INFO test.CommonConditions [main] Test completed
