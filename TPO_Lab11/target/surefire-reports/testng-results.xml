@@ -1,91 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-01T18:55:01 MSK" name="Surefire suite" finished-at="2023-12-01T18:55:41 MSK" duration-ms="40448">
+  <suite started-at="2023-12-01T19:35:07 MSK" name="Surefire suite" finished-at="2023-12-01T19:35:39 MSK" duration-ms="32219">
     <groups>
     </groups>
-    <test started-at="2023-12-01T18:55:01 MSK" name="Surefire test" finished-at="2023-12-01T18:55:41 MSK" duration-ms="40448">
+    <test started-at="2023-12-01T19:35:07 MSK" name="Surefire test" finished-at="2023-12-01T19:35:39 MSK" duration-ms="32219">
       <class name="tpolab11.test.InfoAboutHeroTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.InfoAboutHeroTest@160ac7fb]" started-at="2023-12-01T18:55:38 MSK" name="setUp" finished-at="2023-12-01T18:55:39 MSK" duration-ms="1081" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.InfoAboutHeroTest@3f053c80]" started-at="2023-12-01T19:35:29 MSK" name="setUp" finished-at="2023-12-01T19:35:30 MSK" duration-ms="1085" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="CheckInfoAboutHeroes()[pri:0, instance:tpolab11.test.InfoAboutHeroTest@160ac7fb]" started-at="2023-12-01T18:55:39 MSK" name="CheckInfoAboutHeroes" finished-at="2023-12-01T18:55:41 MSK" duration-ms="2541" status="PASS">
+        <test-method signature="CheckInfoAboutHeroes()[pri:0, instance:tpolab11.test.InfoAboutHeroTest@3f053c80]" started-at="2023-12-01T19:35:30 MSK" name="CheckInfoAboutHeroes" finished-at="2023-12-01T19:35:33 MSK" duration-ms="2216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckInfoAboutHeroes -->
-        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.InfoAboutHeroTest@160ac7fb]" started-at="2023-12-01T18:55:41 MSK" name="stopBrowser" finished-at="2023-12-01T18:55:41 MSK" duration-ms="146" status="PASS">
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.InfoAboutHeroTest@3f053c80]" started-at="2023-12-01T19:35:33 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:33 MSK" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopBrowser -->
       </class> <!-- tpolab11.test.InfoAboutHeroTest -->
-      <class name="tpolab11.test.HeroesTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.HeroesTest@3dddefd8]" started-at="2023-12-01T18:55:34 MSK" name="setUp" finished-at="2023-12-01T18:55:35 MSK" duration-ms="1087" status="PASS">
+      <class name="tpolab11.test.FindPlayerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.FindPlayerTest@13e3c1c7]" started-at="2023-12-01T19:35:22 MSK" name="setUp" finished-at="2023-12-01T19:35:23 MSK" duration-ms="1035" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="isHeroesPageOpened()[pri:0, instance:tpolab11.test.HeroesTest@3dddefd8]" started-at="2023-12-01T18:55:35 MSK" name="isHeroesPageOpened" finished-at="2023-12-01T18:55:37 MSK" duration-ms="1988" status="PASS">
+        <test-method signature="isPlayerFound()[pri:0, instance:tpolab11.test.FindPlayerTest@13e3c1c7]" started-at="2023-12-01T19:35:23 MSK" name="isPlayerFound" finished-at="2023-12-01T19:35:26 MSK" duration-ms="3261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPlayerFound -->
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.FindPlayerTest@13e3c1c7]" started-at="2023-12-01T19:35:26 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:26 MSK" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+      </class> <!-- tpolab11.test.FindPlayerTest -->
+      <class name="tpolab11.test.HeroesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.HeroesTest@5316e95f]" started-at="2023-12-01T19:35:26 MSK" name="setUp" finished-at="2023-12-01T19:35:27 MSK" duration-ms="1104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isHeroesPageOpened()[pri:0, instance:tpolab11.test.HeroesTest@5316e95f]" started-at="2023-12-01T19:35:27 MSK" name="isHeroesPageOpened" finished-at="2023-12-01T19:35:29 MSK" duration-ms="1616" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isHeroesPageOpened -->
-        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.HeroesTest@3dddefd8]" started-at="2023-12-01T18:55:37 MSK" name="stopBrowser" finished-at="2023-12-01T18:55:38 MSK" duration-ms="174" status="PASS">
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.HeroesTest@5316e95f]" started-at="2023-12-01T19:35:29 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:29 MSK" duration-ms="145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopBrowser -->
       </class> <!-- tpolab11.test.HeroesTest -->
       <class name="tpolab11.test.BackHomeTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.BackHomeTest@60dce7ea]" started-at="2023-12-01T18:55:01 MSK" name="setUp" finished-at="2023-12-01T18:55:02 MSK" duration-ms="1448" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.BackHomeTest@27305e6]" started-at="2023-12-01T19:35:07 MSK" name="setUp" finished-at="2023-12-01T19:35:08 MSK" duration-ms="1473" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="isMainPageBackOpened()[pri:0, instance:tpolab11.test.BackHomeTest@60dce7ea]" started-at="2023-12-01T18:55:02 MSK" name="isMainPageBackOpened" finished-at="2023-12-01T18:55:06 MSK" duration-ms="3476" status="PASS">
+        <test-method signature="isMainPageBackOpened()[pri:0, instance:tpolab11.test.BackHomeTest@27305e6]" started-at="2023-12-01T19:35:08 MSK" name="isMainPageBackOpened" finished-at="2023-12-01T19:35:11 MSK" duration-ms="2511" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isMainPageBackOpened -->
-        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.BackHomeTest@60dce7ea]" started-at="2023-12-01T18:55:06 MSK" name="stopBrowser" finished-at="2023-12-01T18:55:06 MSK" duration-ms="201" status="PASS">
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.BackHomeTest@27305e6]" started-at="2023-12-01T19:35:11 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:11 MSK" duration-ms="200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopBrowser -->
       </class> <!-- tpolab11.test.BackHomeTest -->
-      <class name="tpolab11.test.FindMatchTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.FindMatchTest@4a3329b9]" started-at="2023-12-01T18:55:12 MSK" name="setUp" finished-at="2023-12-01T18:55:13 MSK" duration-ms="1055" status="PASS">
+      <class name="tpolab11.test.OpenTopicTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.OpenTopicTest@618c5d94]" started-at="2023-12-01T19:35:36 MSK" name="setUp" finished-at="2023-12-01T19:35:37 MSK" duration-ms="1053" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="isTestFound()[pri:0, instance:tpolab11.test.FindMatchTest@4a3329b9]" started-at="2023-12-01T18:55:13 MSK" name="isTestFound" finished-at="2023-12-01T18:55:34 MSK" duration-ms="20597" status="PASS">
+        <test-method signature="isTestFound()[pri:0, instance:tpolab11.test.OpenTopicTest@618c5d94]" started-at="2023-12-01T19:35:37 MSK" name="isTestFound" finished-at="2023-12-01T19:35:39 MSK" duration-ms="1950" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isTestFound -->
-        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.FindMatchTest@4a3329b9]" started-at="2023-12-01T18:55:34 MSK" name="stopBrowser" finished-at="2023-12-01T18:55:34 MSK" duration-ms="190" status="PASS">
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.OpenTopicTest@618c5d94]" started-at="2023-12-01T19:35:39 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:39 MSK" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+      </class> <!-- tpolab11.test.OpenTopicTest -->
+      <class name="tpolab11.test.FindMatchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.FindMatchTest@41925502]" started-at="2023-12-01T19:35:18 MSK" name="setUp" finished-at="2023-12-01T19:35:19 MSK" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isTestFound()[pri:0, instance:tpolab11.test.FindMatchTest@41925502]" started-at="2023-12-01T19:35:19 MSK" name="isTestFound" finished-at="2023-12-01T19:35:22 MSK" duration-ms="2254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isTestFound -->
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.FindMatchTest@41925502]" started-at="2023-12-01T19:35:22 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:22 MSK" duration-ms="159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopBrowser -->
       </class> <!-- tpolab11.test.FindMatchTest -->
       <class name="tpolab11.test.BaseTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.BaseTest@3b220bcb]" started-at="2023-12-01T18:55:06 MSK" name="setUp" finished-at="2023-12-01T18:55:07 MSK" duration-ms="1019" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.BaseTest@160ac7fb]" started-at="2023-12-01T19:35:11 MSK" name="setUp" finished-at="2023-12-01T19:35:12 MSK" duration-ms="1045" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="isMainPageOpened()[pri:0, instance:tpolab11.test.BaseTest@3b220bcb]" started-at="2023-12-01T18:55:07 MSK" name="isMainPageOpened" finished-at="2023-12-01T18:55:09 MSK" duration-ms="1418" status="PASS">
+        <test-method signature="isMainPageOpened()[pri:0, instance:tpolab11.test.BaseTest@160ac7fb]" started-at="2023-12-01T19:35:12 MSK" name="isMainPageOpened" finished-at="2023-12-01T19:35:13 MSK" duration-ms="1452" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isMainPageOpened -->
-        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.BaseTest@3b220bcb]" started-at="2023-12-01T18:55:09 MSK" name="stopBrowser" finished-at="2023-12-01T18:55:09 MSK" duration-ms="148" status="PASS">
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.BaseTest@160ac7fb]" started-at="2023-12-01T19:35:13 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:14 MSK" duration-ms="141" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopBrowser -->
       </class> <!-- tpolab11.test.BaseTest -->
-      <class name="tpolab11.test.CheckMatchDetailsTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.CheckMatchDetailsTest@2b95e48b]" started-at="2023-12-01T18:55:09 MSK" name="setUp" finished-at="2023-12-01T18:55:10 MSK" duration-ms="1065" status="PASS">
+      <class name="tpolab11.test.OpenForumTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.OpenForumTest@6c6c5427]" started-at="2023-12-01T19:35:33 MSK" name="setUp" finished-at="2023-12-01T19:35:34 MSK" duration-ms="1089" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="isTestFound()[pri:0, instance:tpolab11.test.CheckMatchDetailsTest@2b95e48b]" started-at="2023-12-01T18:55:10 MSK" name="isTestFound" finished-at="2023-12-01T18:55:12 MSK" duration-ms="2512" status="PASS">
+        <test-method signature="isTestFound()[pri:0, instance:tpolab11.test.OpenForumTest@6c6c5427]" started-at="2023-12-01T19:35:34 MSK" name="isTestFound" finished-at="2023-12-01T19:35:36 MSK" duration-ms="1740" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isTestFound -->
-        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.CheckMatchDetailsTest@2b95e48b]" started-at="2023-12-01T18:55:12 MSK" name="stopBrowser" finished-at="2023-12-01T18:55:12 MSK" duration-ms="159" status="PASS">
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.OpenForumTest@6c6c5427]" started-at="2023-12-01T19:35:36 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:36 MSK" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+      </class> <!-- tpolab11.test.OpenForumTest -->
+      <class name="tpolab11.test.CheckMatchDetailsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tpolab11.test.CheckMatchDetailsTest@12bfd80d]" started-at="2023-12-01T19:35:14 MSK" name="setUp" finished-at="2023-12-01T19:35:15 MSK" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isTestFound()[pri:0, instance:tpolab11.test.CheckMatchDetailsTest@12bfd80d]" started-at="2023-12-01T19:35:15 MSK" name="isTestFound" finished-at="2023-12-01T19:35:18 MSK" duration-ms="3590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isTestFound -->
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:tpolab11.test.CheckMatchDetailsTest@12bfd80d]" started-at="2023-12-01T19:35:18 MSK" name="stopBrowser" finished-at="2023-12-01T19:35:18 MSK" duration-ms="187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopBrowser -->

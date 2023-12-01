@@ -160,3 +160,85 @@
 2023-12-01 19:08:41,372 INFO page.MainPage [main] Players page is opened
 2023-12-01 19:08:41,921 INFO page.PlayersPage [main] Player is selected
 2023-12-01 19:08:42,118 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:03,897 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:05,163 INFO page.MainPage [main] ForumPage is opened
+2023-12-01 19:23:05,377 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:22,544 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:22,900 INFO page.MainPage [main] ForumPage is opened
+2023-12-01 19:23:23,092 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:25,863 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:26,079 INFO page.MainPage [main] Match was found
+2023-12-01 19:23:26,081 INFO page.MatchPage [main] Match details checked
+2023-12-01 19:23:26,999 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:29,487 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:30,083 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 19:23:30,565 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 19:23:30,828 INFO page.AbaddonPage [main] Home page is opened
+2023-12-01 19:23:30,998 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:33,599 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:33,774 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:36,965 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:39,162 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 19:23:39,330 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:41,876 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:42,263 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 19:23:42,624 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 19:23:42,814 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:46,530 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:47,449 INFO page.MainPage [main] Players page is opened
+2023-12-01 19:23:47,929 INFO page.PlayersPage [main] Player is selected
+2023-12-01 19:23:48,093 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:23:50,626 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:23:50,829 INFO page.MainPage [main] Match was found
+2023-12-01 19:23:51,639 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:31:32,170 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:31:33,226 INFO page.MainPage [main] ForumPage is opened
+2023-12-01 19:31:33,265 INFO util.TestListener [main] Test failed: CreateTopic
+2023-12-01 19:31:33,642 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:34:41,549 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:34:42,161 INFO page.MainPage [main] ForumPage is opened
+2023-12-01 19:34:42,743 INFO page.ForumPage [main] Topic page is opened
+2023-12-01 19:34:42,931 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:10,158 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:10,535 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 19:35:10,964 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 19:35:11,244 INFO page.AbaddonPage [main] Home page is opened
+2023-12-01 19:35:11,467 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:13,963 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:14,116 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:16,446 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:18,590 INFO page.MainPage [main] Match was found
+2023-12-01 19:35:18,592 INFO page.MatchPage [main] Match details checked
+2023-12-01 19:35:18,920 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:21,361 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:21,533 INFO page.MainPage [main] Match was found
+2023-12-01 19:35:22,392 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:24,828 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:25,506 INFO page.MainPage [main] Players page is opened
+2023-12-01 19:35:26,676 INFO page.PlayersPage [main] Player is selected
+2023-12-01 19:35:26,866 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:29,217 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:29,586 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 19:35:29,737 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:32,205 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:32,647 INFO page.MainPage [main] Heroes page is opened
+2023-12-01 19:35:33,035 INFO page.HeroesPage [main] Abaddon page is opened
+2023-12-01 19:35:33,221 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:35,692 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:36,050 INFO page.MainPage [main] ForumPage is opened
+2023-12-01 19:35:36,215 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:35:38,593 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:35:38,984 INFO page.MainPage [main] ForumPage is opened
+2023-12-01 19:35:39,215 INFO page.ForumPage [main] Topic page is opened
+2023-12-01 19:35:39,386 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:41:05,174 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:41:06,153 INFO page.MainPage [main] Blog page is opened
+2023-12-01 19:41:06,179 INFO util.TestListener [main] Test failed: isBlogOpen
+2023-12-01 19:41:06,547 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:42:21,821 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:42:22,507 INFO page.MainPage [main] Blog page is opened
+2023-12-01 19:42:22,731 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:45:22,616 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:45:23,208 INFO page.MainPage [main] Blog page is opened
+2023-12-01 19:45:24,404 INFO page.BlogPage [main] Next page of blog is open
+2023-12-01 19:45:24,623 INFO test.CommonConditions [main] Test completed

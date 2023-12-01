@@ -16,6 +16,10 @@ public class MainPage extends BasePage {
     private WebElement buttonHeroes;
     @FindBy(xpath = "/html/body/div[2]/div[2]/div[3]/div[4]/div[1]/div[1]/section[1]/article/div/form/input")
     private WebElement inputSearch;
+    @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[8]/a")
+    private WebElement buttonForum;
+    @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[7]/a")
+    private WebElement buttonBlog;
 
     public MainPage(WebDriver driver) {
         super(driver);
@@ -44,6 +48,18 @@ public class MainPage extends BasePage {
         buttonPlayers.click();
         log.info("Players page is opened");
         return new PlayersPage(driver);
+    }
+
+    public BlogPage openBlogPage() {
+        buttonBlog.click();
+        log.info("Blog page is opened");
+        return new BlogPage(driver);
+    }
+
+    public ForumPage openForumPage() {
+        buttonForum.click();
+        log.info("ForumPage is opened");
+        return new ForumPage(driver);
     }
     public String getUrl() {
         return driver.getCurrentUrl();
