@@ -156,3 +156,7 @@
 2023-12-01 18:55:41,283 INFO page.MainPage [main] Heroes page is opened
 2023-12-01 18:55:41,645 INFO page.HeroesPage [main] Abaddon page is opened
 2023-12-01 18:55:41,800 INFO test.CommonConditions [main] Test completed
+2023-12-01 19:08:40,409 INFO page.MainPage [main] Main page is opened
+2023-12-01 19:08:41,372 INFO page.MainPage [main] Players page is opened
+2023-12-01 19:08:41,921 INFO page.PlayersPage [main] Player is selected
+2023-12-01 19:08:42,118 INFO test.CommonConditions [main] Test completed

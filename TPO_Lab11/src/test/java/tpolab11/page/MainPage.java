@@ -10,7 +10,8 @@ import org.openqa.selenium.support.PageFactory;
 
 public class MainPage extends BasePage {
     private final Logger log = LogManager.getLogger();
-
+    @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[5]/a")
+    private WebElement buttonPlayers;
     @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[3]/a")
     private WebElement buttonHeroes;
     @FindBy(xpath = "/html/body/div[2]/div[2]/div[3]/div[4]/div[1]/div[1]/section[1]/article/div/form/input")
@@ -39,6 +40,11 @@ public class MainPage extends BasePage {
         return new HeroesPage(driver);
     }
 
+    public PlayersPage openPlayersPage() {
+        buttonPlayers.click();
+        log.info("Players page is opened");
+        return new PlayersPage(driver);
+    }
     public String getUrl() {
         return driver.getCurrentUrl();
     }
