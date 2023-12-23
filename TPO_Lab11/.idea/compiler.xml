@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tpolab11" />
+        <module name="TPO_Lab11" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

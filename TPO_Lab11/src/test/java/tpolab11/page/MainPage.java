@@ -10,16 +10,16 @@ import org.openqa.selenium.support.PageFactory;
 
 public class MainPage extends BasePage {
     private final Logger log = LogManager.getLogger();
-    @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[5]/a")
-    private WebElement buttonPlayers;
-    @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[3]/a")
-    private WebElement buttonHeroes;
-    @FindBy(xpath = "/html/body/div[2]/div[2]/div[3]/div[4]/div[1]/div[1]/section[1]/article/div/form/input")
-    private WebElement inputSearch;
-    @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[8]/a")
-    private WebElement buttonForum;
-    @FindBy(xpath = "/html/body/div[2]/div[1]/div[2]/div/nav/ul/li[7]/a")
-    private WebElement buttonBlog;
+    @FindBy(xpath = "/html/body/div[1]/div[1]/div[8]/div[3]/a[2]")
+    private WebElement buttonPlay;
+    @FindBy(xpath = "/html/body/div[1]/div[1]/div[8]/div[3]/a[3]")
+    private WebElement buttonPuzzles;
+    @FindBy(xpath = "/html/body/div[1]/div[1]/div[8]/div[3]/a[4]")
+    private WebElement buttonLearn;
+    @FindBy(xpath = "/html/body/div[1]/div[1]/div[8]/div[3]/a[5]")
+    private WebElement buttonWatch;
+    @FindBy(xpath = "/html/body/div[1]/div[1]/div[8]/div[3]/a[6]")
+    private WebElement buttonNews;
 
     public MainPage(WebDriver driver) {
         super(driver);
@@ -27,39 +27,38 @@ public class MainPage extends BasePage {
     }
 
     public MainPage open() {
-        driver.navigate().to("https://www.dotabuff.com/");
+        driver.navigate().to("https://www.chess.com");
         log.info("Main page is opened");
         return this;
     }
-    public MatchPage searchMatch(String searchText) {
-        inputSearch.click();
-        inputSearch.sendKeys(searchText + Keys.ENTER);
-        log.info("Match was found");
-        return new MatchPage(driver);
+    public PlayPage openPlay() {
+        buttonPlay.click();
+        log.info("Play page is opened");
+        return new PlayPage(driver);
     }
 
-    public HeroesPage openHeroesPage() {
-        buttonHeroes.click();
-        log.info("Heroes page is opened");
-        return new HeroesPage(driver);
+    public ChessLearnPage openLearn() {
+        buttonLearn.click();
+        log.info("Learn page is opened");
+        return new ChessLearnPage(driver);
     }
 
-    public PlayersPage openPlayersPage() {
-        buttonPlayers.click();
-        log.info("Players page is opened");
-        return new PlayersPage(driver);
+    public PuzzlesPage openPuzzles() {
+        buttonPuzzles.click();
+        log.info("Puzzles Page is opened");
+        return new PuzzlesPage(driver);
     }
 
-    public BlogPage openBlogPage() {
-        buttonBlog.click();
-        log.info("Blog page is opened");
-        return new BlogPage(driver);
+    public WatchPage openWatch() {
+        buttonWatch.click();
+        log.info("Watch page is opened");
+        return new WatchPage(driver);
     }
 
-    public ForumPage openForumPage() {
-        buttonForum.click();
-        log.info("ForumPage is opened");
-        return new ForumPage(driver);
+    public ChessNewsPage openNews() {
+        buttonNews.click();
+        log.info("News is opened");
+        return new ChessNewsPage(driver);
     }
     public String getUrl() {
         return driver.getCurrentUrl();

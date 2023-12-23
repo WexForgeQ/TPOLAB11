@@ -7,12 +7,12 @@ import tpolab11.page.MainPage;
 import static org.hamcrest.MatcherAssert.assertThat;
 public class OpenBlogTest extends CommonConditions {
     @Test
-    public void isBlogOpen() {
+    public void isLessonsOpen() throws InterruptedException {
         String url = new MainPage(driver)
                 .open()
-                .openBlogPage()
-                .nextPage();
-        Assert.assertEquals("https://www.dotabuff.com/blog?page=2", url);
-        assertThat("Url matched", url.equals("https://www.dotabuff.com/blog?page=2"));
+                .openLearn()
+                .getUrl();
+        Assert.assertEquals("https://www.chess.com/learn", url);
+        assertThat("Url matched", url.equals("https://www.chess.com/learn"));
     }
 }

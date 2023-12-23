@@ -11,11 +11,10 @@ public class BackHomeTest extends CommonConditions {
     public void isMainPageBackOpened() {
         String url = new MainPage(driver)
                 .open()
-                .openHeroesPage()
-                .openAbaddon()
+                .openPlay()
                 .openHome()
                 .getUrl();
-        Assert.assertEquals("https://www.dotabuff.com/", url);
-        assertThat("Url matched", url.equals("https://www.dotabuff.com/"));
+        Assert.assertEquals("https://www.chess.com/", url);
+        assertThat("Url matched", url.equals("https://www.chess.com/"));
     }
 }

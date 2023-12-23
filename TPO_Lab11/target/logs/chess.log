@@ -1,0 +1,160 @@
+2023-12-23 00:49:00,132 INFO page.MainPage [main] Main page is opened
+2023-12-23 00:49:02,112 INFO page.MainPage [main] Learn page is opened
+2023-12-23 00:49:04,159 INFO page.ChessLearnPage [main] Lessons page is opened
+2023-12-23 00:49:04,482 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 00:51:49,177 INFO page.MainPage [main] Main page is opened
+2023-12-23 00:51:52,937 INFO page.MainPage [main] Watch page is opened
+2023-12-23 00:51:55,502 INFO test.CommonConditions [main] Test completed
+2023-12-23 00:53:17,287 INFO page.MainPage [main] Main page is opened
+2023-12-23 00:53:21,222 INFO page.MainPage [main] Learn page is opened
+2023-12-23 00:53:25,443 INFO page.ChessLearnPage [main] Lessons page is opened
+2023-12-23 00:53:28,343 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 00:53:28,480 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 00:54:56,536 INFO page.MainPage [main] Main page is opened
+2023-12-23 00:54:59,125 INFO page.MainPage [main] Learn page is opened
+2023-12-23 00:55:37,772 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 00:55:37,813 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 00:56:34,802 INFO page.MainPage [main] Main page is opened
+2023-12-23 00:56:37,044 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 00:56:37,158 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 00:56:42,411 INFO test.CommonConditions [main] Test completed
+2023-12-23 00:57:33,276 INFO page.MainPage [main] Main page is opened
+2023-12-23 00:57:37,061 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 00:57:40,812 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 00:57:49,207 INFO test.CommonConditions [main] Test completed
+2023-12-23 00:58:42,403 INFO page.MainPage [main] Main page is opened
+2023-12-23 00:58:45,543 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 00:58:47,359 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 00:58:50,905 INFO test.CommonConditions [main] Test completed
+2023-12-23 00:59:27,386 INFO page.MainPage [main] Main page is opened
+2023-12-23 00:59:33,251 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 00:59:53,478 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 00:59:55,313 INFO test.CommonConditions [main] Test completed
+2023-12-23 01:01:14,932 INFO page.MainPage [main] Main page is opened
+2023-12-23 01:01:18,656 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 01:01:21,113 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 01:01:24,981 INFO test.CommonConditions [main] Test completed
+2023-12-23 01:02:28,287 INFO page.MainPage [main] Main page is opened
+2023-12-23 01:02:30,621 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 01:02:33,383 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 01:02:35,378 INFO test.CommonConditions [main] Test completed
+2023-12-23 01:04:47,300 INFO page.MainPage [main] Main page is opened
+2023-12-23 01:04:50,866 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 01:04:59,602 INFO page.PuzzlesPage [main] Hint accepted
+2023-12-23 01:05:01,523 INFO test.CommonConditions [main] Test completed
+2023-12-23 01:05:38,824 INFO page.MainPage [main] Main page is opened
+2023-12-23 01:05:41,224 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 01:05:44,601 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 01:06:00,645 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:48:30,339 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:48:34,817 INFO page.MainPage [main] Play page is opened
+2023-12-23 09:48:36,160 INFO page.PlayPage [main] Home page is opened
+2023-12-23 09:48:38,307 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:48:42,867 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:48:46,823 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:48:53,295 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:48:55,799 INFO page.MainPage [main] Learn page is opened
+2023-12-23 09:48:58,129 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 09:48:58,157 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 09:49:01,087 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:49:08,912 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:49:14,341 INFO page.MainPage [main] Play page is opened
+2023-12-23 09:49:14,409 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 09:49:16,713 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:49:25,324 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:49:27,698 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-23 09:50:03,564 INFO page.PuzzlesPage [main] Hint accepted
+2023-12-23 09:50:06,602 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:50:14,293 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:50:16,656 INFO page.MainPage [main] Play page is opened
+2023-12-23 09:50:19,801 INFO page.PlayPage [main] Variants play page is opened
+2023-12-23 09:50:22,963 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:50:29,272 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:50:31,034 INFO page.MainPage [main] Watch page is opened
+2023-12-23 09:50:32,876 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:50:39,624 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:50:41,761 INFO page.MainPage [main] Play page is opened
+2023-12-23 09:50:43,361 INFO page.PlayPage [main] Online play page is opened
+2023-12-23 09:50:44,916 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:50:51,043 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:50:53,691 INFO page.MainPage [main] Learn page is opened
+2023-12-23 09:50:53,745 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 09:50:56,454 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:51:02,372 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:51:12,946 INFO page.MainPage [main] News is opened
+2023-12-23 09:51:12,983 INFO page.ChessNewsPage [main] News concrete page is opened
+2023-12-23 09:51:16,868 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:52:09,926 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:52:14,162 INFO page.MainPage [main] Learn page is opened
+2023-12-23 09:52:14,249 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 09:52:16,616 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:53:24,877 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:53:28,563 INFO page.MainPage [main] Learn page is opened
+2023-12-23 09:53:28,861 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 09:53:32,213 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:55:10,556 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:55:12,664 INFO page.MainPage [main] Learn page is opened
+2023-12-23 09:55:13,875 INFO util.TestListener [main] Test failed: isLessonsOpen
+2023-12-23 09:55:20,086 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:56:29,616 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:56:31,723 INFO page.MainPage [main] Learn page is opened
+2023-12-23 09:56:34,033 INFO test.CommonConditions [main] Test completed
+2023-12-23 09:57:05,843 INFO page.MainPage [main] Main page is opened
+2023-12-23 09:57:07,701 INFO page.MainPage [main] Play page is opened
+2023-12-23 09:57:07,798 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 09:57:10,853 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:00:56,333 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:01:02,773 INFO page.MainPage [main] Play page is opened
+2023-12-23 10:01:05,819 INFO page.PlayPage [main] Online play page is opened
+2023-12-23 10:01:08,076 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:03:46,215 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:03:54,688 INFO page.MainPage [main] Play page is opened
+2023-12-23 10:03:57,105 INFO page.PlayPage [main] Computer play page is opened
+2023-12-23 10:04:01,533 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:05:36,117 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:05:38,555 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:05:41,150 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:05:58,139 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:06:00,692 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:07:57,851 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:08:01,448 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:08:03,816 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:08:26,788 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:08:29,539 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:10:28,299 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:10:30,369 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:10:32,069 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:10:55,055 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:10:57,713 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:14:46,721 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:14:49,111 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:14:51,244 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:15:04,181 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:15:10,179 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:15:38,815 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:15:41,453 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:15:43,247 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:15:58,448 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:16:01,390 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:16:52,356 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:16:54,740 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:16:56,974 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:17:11,408 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:17:13,108 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:18:07,795 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:18:10,131 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:18:12,009 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:18:57,268 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:20:32,389 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:20:36,538 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:20:38,936 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:20:39,015 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:20:41,276 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:22:30,466 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:22:34,432 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:22:36,822 INFO page.ChessLearnPage [main] Openings page is opened
+2023-12-23 10:22:36,977 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-23 10:22:39,582 INFO test.CommonConditions [main] Test completed
+2023-12-23 10:23:22,631 INFO page.MainPage [main] Main page is opened
+2023-12-23 10:23:25,477 INFO page.MainPage [main] Learn page is opened
+2023-12-23 10:23:27,216 INFO test.CommonConditions [main] Test completed

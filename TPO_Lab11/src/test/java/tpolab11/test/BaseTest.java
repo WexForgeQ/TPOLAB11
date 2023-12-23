@@ -12,8 +12,8 @@ public class BaseTest extends CommonConditions {
         String url = new MainPage(driver)
                 .open()
                 .getUrl();
-        Assert.assertEquals("https://www.dotabuff.com/", url);
-        assertThat("Url matched", url.equals("https://www.dotabuff.com/"));
+        Assert.assertEquals("https://www.chess.com/", url);
+        assertThat("Url matched", url.equals("https://www.chess.com/"));
     }
 }
 
